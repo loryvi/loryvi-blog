@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Blog',
+  title: 'loryvi',
   author: 'loryvi',
-  headerTitle: `'Lory's Journal'`,
-  description: 'A porfolio created with Next.js and Tailwind.css',
+  headerTitle: ``,
+  description: 'A porfolio by loryvi',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://loryvi-blog.vercel.app',

@@ -1,25 +1,22 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
+    title: 'Tarheta',
     description: `What if you could look up any information in the world? Webpages, images, videos
     and more. Google has many features to help you find exactly what you're looking
     for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    imgSrc: '/static/images/tarheta.png',
+    href: 'https://github.com/JayTheBee/tarheta',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Kamatis | A Pomodoro Timer App',
+    description: `A 25 timer minutes for your pomodoro technique. It is a simple timer that will help you focus on your task. Built with Python and Tkinter.`,
+    imgSrc: '/static/images/kamatis.png',
+    href: 'https://github.com/loryvi/kamatis',
   },
-  { title: 'Kamatis | Pomodoro Timer App',
-    description: `A 25 timer minutes for your pomodoro technique. It is a simple timer that will help you focus on your task.
-    Built with Python and Tkinter.`,
-    imgSrc: '/static/images/kamatis.jpg',
-    href: 'blog/kamatis',
+  {
+    title: 'APPEI',
+    description: `Built with Python, Django, and Bootstrap, Yolov5 and Roboflow for custom model. An automated PPE Inspection using object detection which detects facemask and gloves, with an integration of QR Code Clocking System.`,
+    href: 'https://www.youtube.com/watch?v=SoqqeKBDgeU',
   },
 ]
 
