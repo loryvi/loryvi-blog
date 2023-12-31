@@ -29,15 +29,15 @@ export default function Home({ posts }) {
               <span className="focusable rounded-sm font-medium text-zinc-800 underline decoration-blue-500 decoration-2 underline-offset-2 transition duration-100 hover:text-blue-500 hover:decoration-sky-500/30 focus:text-blue-500 focus:ring-sky-500/40 dark:text-white dark:decoration-sky-400 dark:hover:text-sky-400 dark:hover:decoration-sky-400/30 dark:focus:text-sky-400 dark:focus:ring-sky-400/40">
                 Technological University of the Philippines
               </span>
-              . Tumblr was the reason I got into Computer Science and my first exposure coding back
-              in highschool. My first programming language was HTML and CSS. I learned more
+              . Tumblr was the reason I got into Computer Science and my first exposure to coding
+              back in highschool. My first programming language was HTML and CSS. I learned more
               programming using C during my college years. My Favorite language now are{' '}
               <span className="focusable rounded-sm font-medium text-zinc-800 underline decoration-blue-800 decoration-2 underline-offset-2 transition duration-100 hover:text-blue-800 hover:decoration-blue-800/30 focus:text-blue-500 focus:ring-blue-500/40 dark:text-white dark:decoration-sky-400 dark:hover:text-sky-400 dark:hover:decoration-sky-400/30 dark:focus:text-sky-400 dark:focus:ring-sky-400/40">
                 Python and CSS
               </span>
               . I honestly think that Javascript is hard, but I am still learning.
               <p className="my-4">
-                During my university days, I became part of{' '}
+                During my university days, I became part a of{' '}
                 <span className="focusable rounded-sm font-medium text-zinc-800 underline decoration-green-500 decoration-2 underline-offset-2 transition duration-100 hover:text-green-500 hover:decoration-green-500/30 focus:text-lime-500 focus:ring-lime-500/40 dark:text-white dark:decoration-lime-400 dark:hover:text-lime-400 dark:hover:decoration-lime-400/30 dark:focus:text-lime-400 dark:focus:ring-lime-400/40">
                   Google Developer Student Club
                 </span>
