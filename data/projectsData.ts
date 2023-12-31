@@ -11,7 +11,7 @@ const projectsData = [
     title: 'Kamatis | A Pomodoro Timer App',
     description: `A 25 timer minutes for your pomodoro technique. It is a simple timer that will help you focus on your task. Built with Python and Tkinter.`,
     imgSrc: '/static/images/kamatis.png',
-    href: 'https://github.com/loryvi/kamatis',
+    href: 'blog/kamatis',
   },
   {
     title: 'APPEI',
