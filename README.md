@@ -1,4 +1,4 @@
-# Loryvi's personal website (https://lory-blog.vercel.com)
+# Loryvi's personal website (https://lory-blog.vercel.app)
 
 Welcome to my personal website and portfolio. 🛸
 

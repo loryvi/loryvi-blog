@@ -6,17 +6,14 @@ const siteMetadata = {
   description: 'A porfolio created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://loryvi-blog.vercel.app',
+  siteRepo: 'https://github.com/loryvi/loryvi-blog',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
-  //mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'contact.loryvi@gmail.com',
   github: 'https://github.com/loryvi',
   twitter: 'https://twitter.com/lorycodes',
-  //facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/loryvi',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
