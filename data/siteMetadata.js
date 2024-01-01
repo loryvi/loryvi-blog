@@ -8,7 +8,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://loryvi-blog.vercel.app',
   siteRepo: 'https://github.com/loryvi/loryvi-blog',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: 'public/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'contact.loryvi@gmail.com',
   github: 'https://github.com/loryvi',
