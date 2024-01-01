@@ -16,7 +16,7 @@ export default function Home({ posts }) {
           <div className="flex flex-col-reverse items-start sm:flex-row">
             <div className="flex flex-col pr-8">
               <h1 className="mb-1 text-3xl font-bold tracking-tight text-zinc-800 dark:text-white md:text-5xl">
-                Loryvi Leogo
+                Loryvi Grace Leogo
               </h1>
               <h2 className="mb-1 text-xl font-bold tracking-tight text-zinc-600 dark:text-white md:text-2xl">
                 I code, I journal, I write!
@@ -48,7 +48,7 @@ export default function Home({ posts }) {
               <span className="focusable rounded-sm font-medium text-zinc-800 underline decoration-sky-700 decoration-2 underline-offset-2 transition duration-100 hover:text-sky-700 hover:decoration-sky-500/30 focus:text-orange-500 focus:ring-sky-500/40 dark:text-white dark:decoration-blue-400 dark:hover:text-blue-400 dark:hover:decoration-blue-400/30 dark:focus:text-blue-400 dark:focus:ring-blue-400/40">
                 Data Engineering
               </span>
-              {''} and working on building my own digital journal.
+              {''} and working on building my digital journal.
             </p>
           </p>
           <div className="mt-8 flex flex-wrap gap-4 text-center">
