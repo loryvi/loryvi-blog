@@ -5,7 +5,7 @@ const projectsData = [
     and more. Google has many features to help you find exactly what you're looking
     for.`,
     imgSrc: '/static/images/tarheta.png',
-    href: 'https://github.com/JayTheBee/tarheta',
+    href: 'blog/tarheta',
   },
   {
     title: 'Kamatis | A Pomodoro Timer App',
